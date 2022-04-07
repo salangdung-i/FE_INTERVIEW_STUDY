@@ -19,12 +19,12 @@
 19. 가비지컬렉터
 20. Map, Set의 차이점
 21. 이벤트 버블링과 캡처링에 대한 예시를 들어주세요.
-22. [GET , POST방식의 차이점을 설명하세요](./GET, POST의 차이는 무엇입니까 ?.md)
+22. [GET , POST방식의 차이점을 설명하세요](./GET%2C%20POST%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9E%85%EB%8B%88%EA%B9%8C%20%3F.md)
 23. [OOP가 무엇인가요 ?](./OOP%EA%B0%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F.md)
-24. [원시값과 참조값의 차이와 개념을 설명해주세요](./원시값과 참조값의 차이와 개념을 설명해주세요.md)
+24. [원시값과 참조값의 차이와 개념을 설명해주세요](./%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%20%EC%B0%B8%EC%A1%B0%EA%B0%92%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%99%80%20%EA%B0%9C%EB%85%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 25. [브라우저 저장소에 대해 설명해주세요](./%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%20%EC%A0%80%EC%9E%A5%EC%86%8C.md)
-26. [Restful API와 차이점은?](./RESTful API와 차이점은?)
-27. [REST API설계원칙으론 무엇이 있을까요?](./REST API설계원칙으론 무엇이 있을까요?.md)
-28. [CORS를 대처하는 방법과 우회하는 방법은?](./CORS란 , 그리고 그것을 대처하는 방법과 우회하는 방법은?.md)
-29. [HTTP와 HTTPS의 차이점에 대해 설명해주세요](./HTTP와 HTTPS의 차이점에 대해 설명해주세요.md)
+26. [Restful API와 차이점은?](./RESTful%20API%EC%99%80%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%80%3F.md)
+27. [REST API설계원칙으론 무엇이 있을까요?](./REST%20API%EC%84%A4%EA%B3%84%EC%9B%90%EC%B9%99%EC%9C%BC%EB%A1%A0%20%EB%AC%B4%EC%97%87%EC%9D%B4%20%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94%3F.md)
+28. [CORS를 대처하는 방법과 우회하는 방법은?](./CORS%EB%9E%80%20%2C%20%EA%B7%B8%EB%A6%AC%EA%B3%A0%20%EA%B7%B8%EA%B2%83%EC%9D%84%20%EB%8C%80%EC%B2%98%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EA%B3%BC%20%EC%9A%B0%ED%9A%8C%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95%EC%9D%80%3F.md)
+29. [HTTP와 HTTPS의 차이점에 대해 설명해주세요](./HTTP%EC%99%80%20HTTPS%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%97%90%20%EB%8C%80%ED%95%B4%20%EC%84%A4%EB%AA%85%ED%95%B4%EC%A3%BC%EC%84%B8%EC%9A%94.md)
 
